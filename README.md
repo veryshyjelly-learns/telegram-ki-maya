@@ -1,4 +1,15 @@
-# telegram-ki-maya
+> [!NOTE]
+> Archived component of the Setu group-bridging experiment.
+> Setu used a shared bot to bridge groups through modular platform adapters.
+> It explores a different architecture from [Bifrost](https://github.com/veryshyjelly/bifrost), my current messaging project.
+
+# Setu Telegram adapter
+
+The Telegram adapter for [Setu Engine](https://github.com/veryshyjelly-learns/setu-engine). It exposes chat events and messaging through a WebSocket interface for the group bridge.
+
+Related component: [whatsapp-ki-maya](https://github.com/veryshyjelly-learns/whatsapp-ki-maya).
+
+## Historical setup
 
 ## Usage
 ### Get Bot Token From BotFather
